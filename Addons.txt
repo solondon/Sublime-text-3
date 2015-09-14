@@ -1,0 +1,16 @@
+PackageControl
+BracketHighlighter
+CodeFormatter
+ColorPicker
+Emmet
+HTML5
+TrailingSpaces
+ViewInBrowser
+SublimeCodeIntel
+SublimeLinter
+Nettuts + Fetch
+Predawn
+PyV8
+SydeBarEnhancements
+Theme - Flatland
+SnippetMaker
